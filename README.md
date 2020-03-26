@@ -1,8 +1,9 @@
-# JavaScript_Security
+## JavaScript_Security
 ```
 汇总JavaScript相关安全工具及安全风险(前端安全风险涉及路由配置安全导致的越权访问等)
 ```
 部分工具互联网download具体源地址不知道位置(如有冒犯及时提出并修改)
 
 [获取本地IP](https://github.com/si1ent-le/JavaScript_Security/blob/master/Local_Address.html)  
-[前端安全之纵向越权](http://www.si1ent.xyz/2019/12/16/)
+[前端安全之纵向越权](http://www.si1ent.xyz/2019/12/16/)  
+[前端安全漏洞](https://github.com/si1ent-le/JavaScript_Security/blob/master/%E5%89%8D%E7%AB%AF%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E.md)
